@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - I am studying backend and front end technologies.
 - I am studying spark to learn big data programming.
 
-### Colaboration
+### Collaboration
 I am always looking for projects to work on and strengthen my skills as a software engineer. I am open to colaborating on a variety of projects, particularly web and mobile applications. 
 
 ### How To Reach Me
