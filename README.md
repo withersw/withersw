@@ -1,4 +1,4 @@
-## Hi, I'm Wade Withers
+## Hi, I'm Wade
 
 <!--
 **withersw/withersw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
