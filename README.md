@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - I enjoy doing both frontend and backend development.
 
 ### What I'm Learning Now
-- I enjoy android development and am learning Kotlin to develop mobile apps with Android Studio.
-- I am studying backend and front end technologies.
+- I enjoy android development and am learning Java to develop mobile apps with Android Studio.
+- I learning Full Stack Development online.
 - I am studying spark to learn big data programming.
 
 ### Collaboration
