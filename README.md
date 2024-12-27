@@ -32,7 +32,7 @@ I am always looking for projects to work on and strengthen my skills as a softwa
 Reach out to me on LinkedIn: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/wade-withers/)
 
 ### Some Of My Projects
-* [Budget App](https://github.com/withersw/ProBudgeting)
+* Place Pals: Roommate finder social media app [Frontend](https://github.com/withersw/placepals), [Backend](https://github.com/withersw/placepals-backend)
 * [Currency Converter](https://github.com/withersw/Currencey-Converter)
 * [Weather Application](https://github.com/withersw/Weather-App)
 
