@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-- I am currently getting my bachelors degree in Computer Science at Brigham Young University-Idaho.
-- I am getting certificates in Software Design and Machine Learning from BYU-I as well. 
-- I enjoy doing both frontend and backend development.
+- Software Engineer Seeking Full-Time Position 
+- I recently graduated with my bachelors degree in Computer Science from Brigham Young University-Idaho with certificates in Software Design and Machine Learning. 
+- I enjoy developing full stack web applications and mobile apps. 
 
 ### What I'm Learning Now
-- I enjoy android development and am learning Java to develop mobile apps with Android Studio.
-- I learning Full Stack Development online.
-- I am studying spark to learn big data programming.
+- I am furthering my knowledge and skills in Java backend development with Spring.
+- I am learning advanced mobile development to further my professional carreer with Flutter and Android.
 
 ### Collaboration
 I am always looking for projects to work on and strengthen my skills as a software engineer. I am open to colaborating on a variety of projects, particularly web and mobile applications. 
