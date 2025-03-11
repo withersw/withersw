@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### About Me
 - Software Engineer Seeking Full-Time Position 
 - I recently graduated with my bachelors degree in Computer Science from Brigham Young University-Idaho with certificates in Software Design and Machine Learning. 
-- I enjoy developing full stack web applications and mobile apps. 
+- I enjoy developing web applications and building machine learning models. 
 
 ### What I'm Learning Now
 - I am furthering my knowledge and skills in Java backend development with Spring.
@@ -28,10 +28,12 @@ Here are some ideas to get you started:
 I am always looking for projects to work on and strengthen my skills as a software engineer. I am open to colaborating on a variety of projects, particularly web and mobile applications. 
 
 ### How To Reach Me
-Reach out to me on LinkedIn: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/wade-withers/)
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/wade-withers/)
 
 ### Some Of My Projects
-* Place Pals: Roommate finder social media app [Frontend](https://github.com/withersw/placepals), [Backend](https://github.com/withersw/placepals-backend)
-* [Currency Converter](https://github.com/withersw/Currencey-Converter)
-* [Weather Application](https://github.com/withersw/Weather-App)
+* Place Pals: Roommate finder social media website (Java/Spring Boot/JavaScript/React) [Frontend](https://github.com/withersw/placepals), [Backend](https://github.com/withersw/placepals-backend)
+* [Satellite Orbital Simulator (C++)](https://github.com/aracaraujo/Orbital)
+* [Artillery Simulator (C++)](https://github.com/withersw/Artillery-Simulator-)
+* [Currency Converter (Rust)](https://github.com/withersw/Currencey-Converter)
+* [Weather Application(JavaScript/React)](https://github.com/withersw/Weather-App)
 
